@@ -25,4 +25,4 @@ Jogo Pong que pode ser jogado por duas pessoas ao mesmo tempo.
 ## 🛠️ Abrir e rodar o projeto
 
 Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
-Para movimentar a raquete azul, você deve usar as teclas W e S (cima e baixo, respectivamente). Para movimentar a raquete roza, você deve usar as teclas para cima e para baixo do teclado.
+Para movimentar a raquete azul, você deve usar as teclas W e S (cima e baixo, respectivamente). Para movimentar a raquete rosa, você deve usar as teclas para cima e para baixo do teclado.
